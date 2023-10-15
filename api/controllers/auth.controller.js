@@ -1,6 +1,7 @@
 import User from '../models/user.model.js';
 import bcryptjs from 'bcryptjs';
-export const signup = async (req,res) => {//to use await we have to make funciton async
+import { errorHandler } from '../utils/error.js';
+export const signup = async (req,res,next) => {//to use await we have to make funciton async
     const {username,email,password} = req.body;
 
     const hashedPassword = bcryptjs.hashSync(password,10);//hashsalt=10/combine with password and make it encrypted
@@ -14,7 +15,8 @@ export const signup = async (req,res) => {//to use await we have to make funcito
 }
     catch(error)
     {
-        res.status(500).json(error.message);
+        next(error)
+        // next(errorHandler(550,'error from the function'));
     }
    
 
