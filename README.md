@@ -44,14 +44,22 @@ It includes features such as user authentication (sign up, sign in) with Google 
 - **Authentication:**
   - JWT
   - Google OAuth
- 
-- <img width="936" alt="Screenshot 2023-12-28 170441" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/9658a638-d1cd-4e58-aecc-e0e06c17680f">
-- <img width="957" alt="Screenshot 2023-12-28 170459" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/b38567ac-5f28-43dc-a91e-c6e880229be1">
-- <img width="960" alt="Screenshot 2023-12-28 170513" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/a7c7cea9-42bf-4ecc-b365-22a9bf37a3d8">
-- <img width="939" alt="Screenshot 2023-12-28 170527" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/e2c52565-f223-436b-aeb6-0b3e547edfb0">
-- <img width="958" alt="Screenshot 2023-12-28 170537" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/bdd55807-b57a-4d2c-a14b-5e635408521a">
-- <img width="960" alt="Screenshot 2023-12-28 170558" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/b1cf0219-c9c8-491a-9f02-faafa7b19230">
-- <img width="957" alt="Screenshot 2023-12-28 170651" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/5f60d9f3-ad1d-45bc-ad9c-9fa5d3d44ef1">
+
+- <img width="956" alt="Screenshot 2023-12-28 170441" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/efb6afce-dc7d-47e2-80a4-c435fc477125">
+- <img width="958" alt="Screenshot 2023-12-28 170459" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/675ce3a2-7b22-4b5c-92de-4dc05db8b3ea">
+- <img width="956" alt="Screenshot 2023-12-29 121746" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/6ed4065d-e9f7-4fbe-9667-0c3443367284">
+- <img width="953" alt="Screenshot 2023-12-29 121757" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/5d35916f-181f-485c-9661-1458bc0fc0c4">
+- <img width="956" alt="Screenshot 2023-12-29 121808" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/b87d670b-bba3-46d3-b222-2de3eaf1fbf4">
+- <img width="954" alt="Screenshot 2023-12-29 121850" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/ec5e1379-b54c-4284-8181-2fc64224b76f">
+- <img width="958" alt="Screenshot 2023-12-29 121851" src="https://github.com/ankitadhakad/Property-Pulse/assets/93987344/6143171e-b45d-49e4-a491-7061d509060f">
+
+
+
+
+
+
+
+
 
 
 
